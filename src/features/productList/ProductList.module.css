@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  margin-left: 260px;
+  margin-top: 5%;
+}
+
+.product-row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,16 @@
+.checkout-root {
+  margin-top: 5%;
+}
+
+.shipping-heading {
+  font-size: 30px;
+}
+
+.image {
+  width: 80px;
+}
+
+.single-product-root{
+  padding: 15px;
+  border: 1px solid grey;
+}
